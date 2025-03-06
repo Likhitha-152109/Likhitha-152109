@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Likhitha and I'm a student from GIET Engineering College</h2>
+<h2 align="center">Hi<br>
+My name is Likhitha  I am eager to kickstart my career in web development. My passion for creating visually appealing and user-friendly websites has driven me to master the fundamentals of front-end development. I have hands-on experience in designing responsive web pages and ensuring cross-browser compatibility.</h2>
 
 ###
 
