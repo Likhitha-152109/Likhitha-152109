@@ -1,3 +1,4 @@
+<img src=""C:\Users\User\OneDrive\Pictures\Saved Pictures\developers-gif-showcase.gif">
 <h2 align="center">Hi
 My name is Likhitha  <br>I am eager to kickstart my career in web development. My passion for creating visually appealing and user-friendly websites has driven me to master the fundamentals of front-end development. I have hands-on experience in designing responsive web pages and ensuring cross-browser compatibility.</h2>
 
