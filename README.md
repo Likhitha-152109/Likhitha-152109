@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/th/id/OGC.240d53cd9effed7aecc87cda4a893e7f?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2f4H3Ii5eLChYul9p7NL%2f200.gif%3fcid%3d790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh%26rid%3d200.gif%26ct%3dg&ehk=qxu6w41MBaD9AEcsa7bEf6sIsLCLYFC%2fbD6zCKoXnPw%3d">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=KlNlGjWB&id=AA93BB50674C5C0A6AAAEEAE6DB82AF20F4DB9FD&thid=OIP.KlNlGjWBb0mScNgnX9UxjwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2401141%2fscreenshots%2f5487982%2fdevelopers-gif-showcase.gif&exph=600&expw=800&q=coding+gif&simid=608030889019843973&FORM=IRPRST&ck=FC8DFEFE6D19B985CEC39C8A878B6B2B&selectedIndex=87&itb=0">
 <h2 align="center">Hi
 My name is Likhitha  <br>I am eager to kickstart my career in web development. My passion for creating visually appealing and user-friendly websites has driven me to master the fundamentals of front-end development. I have hands-on experience in designing responsive web pages and ensuring cross-browser compatibility.</h2>
 
